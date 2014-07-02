@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="everito.san" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Musawesome</name>
+    <description>
+        Encuentra el museo de tu interés.
+    </description>
+    <author email="everardo.ipn@gmail.com" href="https://www.facebook.com/pages/Everito-San/739665709380429?fref=ts">
+        Everito.san
+    </author>
+    <content src="index.html" />
+   
+     <platform name="android">
+              <icon src="www/icons/icon-30.png" density="ldpi" />
+              <icon src="www/icons/icon-60.png" density="mdpi" />
+              <icon src="www/icons/icon-128.png" density="hdpi" />
+              <icon src="www/icons/icon-256.png" density="xhdpi" />
+     </platform>
+    <preference name="SplashScreen" value="screen" />
+	<preference name="SplashScreenDelay" value="1500" />
+    <access origin="*" />
+</widget>

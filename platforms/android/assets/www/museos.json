@@ -1,0 +1,192 @@
+[
+{
+	"name":"Casa Museo José Clemente Orozco",
+	"url":"http://guadalajaraguadalajara.com/images/museos/jose_clemente.jpg",
+	"dir":"Calle Aurelio Aceves #27, Colonia Arcos Vallarta, Guadalajara, Jalisco",
+	"hor":"Lunes a Viernes de 10:00 a.m. a 4:00 p.m.",
+	"des":"Dentro de este museo se puede observar un legado de José Clemente Orozco en el mural 'La Buena Vida' (mural desmontable) que fue pintado a principios de 1945, para un exclusivo club francés llamado 'Turf Club'."
+},
+{ 
+	"name":"Casa Museo José López Portillo " ,
+	"url":"http://guadalajaraguadalajara.com/images/museos/lopez_portillo.jpg",
+	"dir":"Liceo 177, Zona Centro, Guadalajara, Jalisco, México",
+	"hor":"Martes a Sábado de 10:00 a.m. a 5:00 p.m. Domingo de 10:00 a.m. a 3:00 p.m.",
+	"des":"El museo ofrece al visitante visitas guiadas (previa cita), obras de teatro, recitales, exposiciones temporales y presentación de libros. " 
+},
+
+{ 
+	"name":"Centro Cultural Casa ITESO Clavijero",
+	"url":"http://guadalajaraguadalajara.com/images/museos/iteso_clavijero.jpg",
+	"dir":"José Guadalupe Zuno #2083, Guadalajara, Jalisco",
+	"hor":"Lunes a Viernes de 9:00 a.m. a 7:00 p.m. Sábado de 10:00 a.m. a 2:00 p.m.",
+	"des":"Fue inaugurado el 25 de Abril de 2001, como un espacio de extensión académica, cultural y protocolar con carácter no lucrativo y al servicio de la comunidad." 
+},
+
+{ 
+	"name":"Centro de Ciencia y Tecnología Planetario Severo Díaz Galindo",
+	"url":"http://guadalajaraguadalajara.com/images/museos/ciencia_tec_plane.jpg",
+	"dir":"Periférico Norte Manuel Gómez Morín #401, Guadalajara, Jalisco",
+	"hor":"Martes a Domingo, 09:00 - 19:30 hrs.",
+	"des":"En este espacio se puede encontrar diversidad de temas como: la astronomía, la interacción con el sistema solar, la galaxia, el espacio, la aviación (donde se pueden admirar los aviones como el Boeing 707 comercial y el F-105 Caza Bombaerdero), ciencias naturales (observando los distintos tipos de dinosaurios que existieron alguna vez), un espacio virtual y el vagón de la ciencia donde se llevan a cabo talleres científicos relacionados con la biografía, física y química." 
+	},
+
+{ 
+	"name":"Instituto Cultural Cabañas",
+	"url":"http://guadalajaraguadalajara.com/images/museos/cultural_cabanas.jpg",
+	"dir":" Cabañas #8, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 10:00 a.m. a 3:00 p.m.",
+	"des":"El museo ofrece servicios de visitas guiadas, exposiciones temporales, el museo del sitio, conferencias y talleres de pintura, dibujo, danza, fotografía, escultura y grabado." 
+},
+
+{ 
+	"name":"Museo de Arqueología del Occidente de México",
+	"url":"http://guadalajaraguadalajara.com/images/museos/arqueologia.jpg",
+	"dir":"Avenida 16 de Septiembre #889, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Lunes a Sábado de 10:00 a.m. a 7:00 p.m. Domingo de 10:00 a.m. a 2:00 p.m.",
+	"des":"El museo está conformado por 4 secciones: Jalisco, Colima, Nayarit y la Prehistoria." 
+},
+
+{ 
+	"name":"Museo de Arte Zapopan",
+	"url":"http://guadalajaraguadalajara.com/images/museos/arte_zapo.jpg",
+	"dir":"Andador 20 de Noviembre #166, Zona Centro, Zapopan, Jalisco",
+	"hor":"Martes a Domingo de 10:00 a.m. a 6:00 p.m.",
+	"des":"Cuenta con tres salas de exposición y un foro multidisciplinario que albergara propuestas contemporáneas de música, danza, teatro y medios audiovisuales. "
+},
+
+{ 
+	"name":"Museo de Caza Benito Albarrán",
+	"url":"http://guadalajaraguadalajara.com/images/museos/benito_albarran.jpg",
+	"dir":" Paseo de los Parques #3450, Zapopan, Jalisco",
+	"hor":"Domingos y días festivos de 10:00 a.m. a 2:30 p.m.",
+	"des":"Uno de los hobbies del Sr. Benito Albarrán era la caza de animales salvajes; el museo ofrece una gran variedad de animales exóticos que forman parte de su colección los cuales son aproximadamente 270 ejemplares, entre los que se encuentran un oso polar, un venado de cola blanca, un wapiti, un búfalo, un rinoceronte blanco, leones, tigres, etc."
+},
+
+{
+	"name":"Museo de Cera",	
+	"url":"http://guadalajaraguadalajara.com/images/museos/cera.jpg",
+	"dir":"Morelos #217, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Horario: Lunes a Domingo de 11:00 a.m. a 8:00 p.m.",
+	"des":"Algunos de los personajes inmortalizados en cera son: Vicente Fox, Vicente y Alejandro Fernández, Salma Hayek, Ana Gabriela Guevara, Juan Francisco Palencia, Cantinflas, Porfirio Díaz, Benito Juárez, Antonio Banderas, Brad Pitt, Gandhi, Yasser Arafat y muchos más." 
+},
+
+{ 
+	"name":"Museo de la Ciudad",
+	"url":"http://guadalajaraguadalajara.com/images/museos/delaciudad.jpg",
+	"dir":"Calle Independencia #684, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 5:30 p.m. Domingo de 10:00 a.m. a 2:30 p.m.",
+	"des":"El inmueble se restauró en su totalidad y fue adecuado museográficamente para albergar la historia de la ciudad desde el siglo XVI hasta nuestros días. Fue inaugurado el 14 de Febrero de 1992, en ocasión del 450 aniversario de la fundación de Guadalajara y dispone de ocho salas museográficas, cinco de ellas situadas en la planta baja y las tres restantes en el segundo nivel en las que se describen los desarrollos históricos, urbanísticos, etnográficos y artísticos de la ciudad. " 
+},
+
+{ 
+	"name":"Museo de las Artes de la Universidad de Guadalajara",
+	"url":"http://guadalajaraguadalajara.com/images/museos/artes_udg.jpg",
+	"dir":"Av. Juárez #975, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Domingo de 10:00 a.m. a 6:00 p.m.",
+	"des":"En la parte superior se pueden observar balastras en el contorno del edificio y es de estilo renacentista francés. Existe además de la Rectoría y otras Dependencias Universitarias, la Galería de Rectores.Actualmente funciona como Museo de las Artes, el cual fue fundado en 1995. Tiene 5 salas y fue dotado de una colección permanente conformada por 33 obras de artistas importantes de la localidad como representantes de la pintura jalisciense. Así mismo, se creó un acervo itinerante con obras donadas por artistas o personalidades, como un cuadro que perteneció a Julio Cortázar, el cual donó en vida." 
+},
+
+{ 
+	"name":"Museo de las Artes Populares de Jalisco",
+	"url":"http://upload.wikimedia.org/wikipedia/commons/f/f0/Museo_de_las_Artes_Populares_de_Jalisco-5.jpg",
+	"dir":"San Felipe #211, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 10:00 a.m. a 4:00 p.m.",
+	"des":"El museo ofrece servicios de exposiciones temporales de arte popular, visitas guiadas, presentación de libros y programas escolares." 
+},
+
+{ 
+	"name":"Museo del Ejército y Fuerza Aérea",
+	"url":"http://guadalajaraguadalajara.com/images/museos/ejercito.jpg",
+	"dir":"Gómez Farias #600, Colonia General Real, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo y días festivos de 10:00 a.m. a 4:00 p.m.",
+	"des":"Abarca la época prehispánica, colonial, la insurgencia, la consumación de la independencia y la revolución mexicana, hasta llegar a nuestros días.El museo ofrece visitas guiadas a grupos escolares (previa cita) y dos salas con proyecciones referentes a la industria militar y a la fuerza aérea."
+},
+	
+{ 
+	"name":"Museo del Periodismo y de las Artes Gráficas'",
+	"url":"http://guadalajaraguadalajara.com/images/museos/periodismo_artes.jpg",
+	"dir":"Avenida Alcalde #225, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 10:00 a.m. a 3:00 p.m.",
+	"des":"El museo se divide en 3 pisos en los que se pueden encontrar impresos que datan del siglo XVIII; entre los más importantes destacan siete ejemplares de 'El Despertador Americano' así como maquinarias del siglo XIX, un estudio de televisión y una cabina de radio." 
+},
+
+{ 
+	"name":"Museo del Premio Nacional de la Cerámica Pantaleón Panduro",
+	"url":"http://guadalajaraguadalajara.com/images/museos/pantaleon.jpg",
+	"dir":"Prisciliano Sánchez #191, Zona Centro, Tlaquepaque, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 10:00 a.m. a 3:00 p.m.",
+	"des":"La colección que alberga el museo comprende casi 300 piezas, las cuales en su mayoría se encuentran en exposición permanente y las restantes esporádicamente en exposiciones temporales." 
+},
+
+{ 
+	"name":"Museo de Paleontología de Guadalajara",
+	"url":"http://guadalajaraguadalajara.com/images/museos/panleontologia.JPG",
+	"dir":"Avenida R. Michel #520, Colonia San Carlos, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 11:00 a.m. a 6:00 p.m.",
+	"des":"En la colección que exhibe el museo se muestran fósiles, principalmente mamíferos de la época del pleistoceno como antílopes, tigres colmillos de sable, mamuts, magaterios, aves, anfibios y plantas fósiles." 
+},
+
+{ 
+	"name":"Museo de Ripley",
+	"url":"http://guadalajaraguadalajara.com/images/museos/ripley.jpg",
+	"dir":"Morelos #217, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Lunes a Domingo de 11:00 a.m. a 8:00 p.m.",
+	"des":"Fue explorador y coleccionista de cosas extrañas y poco comunes tales como: objetos de diversas civilizaciones antiguas y modernas, personas extrañas, arte raro e increíble, supersticiones y mucho más." 
+},
+
+{ 
+	"name":"Museo Etnográfico de Arte Huichol Wixarica",
+	"url":"http://guadalajaraguadalajara.com/images/museos/huichol.jpg",
+	"dir":"Costado Norte de la Basílica de Zapopan, Zapopan, Jalisco",
+	"hor":"Lunes a Sábado de 9:00 a.m. a 6:00 p.m. Domingo de 10:00 a.m. a 2:00 p.m.",
+	"des":"Dentro del museo podemos encontrar artículos hechos con kuka (chaquira) que son utilizados con finalidades rituales y algunos instrumentos musicales utilizados por los huicholes." 
+},
+
+{ 
+	"name":"Museo Nacional de la Cerámica",
+	"url":"http://guadalajaraguadalajara.com/images/museos/nacional_ceramica.JPG",
+	"dir":"Calle Constitución #4, Zona Centro, Tonalá, Jalisco",
+	"hor":"Martes a Viernes de 10:00 a.m. a 5:00 p.m. Sábado y Domingo de 10:00 a.m. a 3:00 p.m.",
+	"des":"Contiene una de las colecciones de cerámica más importantes del país por su nivel artístico y la calidad de la manufactura, además de que es posible encontrar en sus piezas una tipología y cronología ascendente de la cerámica del siglo XVIII a nuestros días. " 
+},
+
+{ 
+	"name":"Museo Raúl Anguiano",
+	"url":"http://guadalajaraguadalajara.com/images/museos/raul_anguiano.jpg",
+	"dir":"Av. Mariano Otero #375, Colonia Moderna, Guadalajara, Jalisco. C.P. 44150",
+	"hor":"Martes a Domingo de 10:00 a.m. a 6:00 p.m.",
+	"des":"El museo Raúl Anguiano es el más joven y moderno de los museos del municipio de Guadalajara. A unos pasos de la glorieta de los Niños Héroes, fue inaugurado el 25 de Junio de 2003 bajo el auspicio de la Oficialía Mayor de Cultura de esta ciudad.Cuenta en su interior con tres salas de exhibición en dos plantas, una sala de usos múltiples y una sala para los más pequeños llamada 'Niño Anguiano' con áreas de trabajo y de lectura; en el exterior una terraza o patio de esculturas y 12 obras murales de diversos artistas en el perímetro de la fachada." 
+},
+
+{ 
+	"name":"Museo Regional de Guadalajara",
+	"url":"http://guadalajaraguadalajara.com/images/museos/regional_gdl.jpg",
+	"dir":"Calle Liceo #60, Zona Centro, Guadalajara, Jalisco",
+	"hor":"Martes a Sábado de 9:00 a.m. a 5:30 p.m. Domingo de 9:00 a.m. a 4:30 p.m.",
+	"des":"La colección artística incluye arte colonial de los siglos XVII y XVIII, pinturas europeas de los siglos XVIII y XIX, modernas pinturas y frescos mexicanos, así como un mural de José Guadalupe Zuno dedicado a recordar la conquista de la Nueva Galicia por Nuño de Guzmán. También puede admirarse la capilla que funcionó en este antiguo edificio.El museo cuenta con 14 salas de exhibición con los siguientes temas: paleontología y prehistoria, arqueología del Occidente, historia de Jalisco, etnografía del Occidente y pintura de los siglos XVII, XVIII, XIX y XX, en exposición permanente. " 
+},
+
+{ 
+	"name":"Museo Regional de la Cerámica",
+	"url":"http://guadalajaraguadalajara.com/images/museos/regional_cera.jpg",
+	"dir":"Calle Independencia #237, Zona Centro, Tlaquepaque, Jalisco",
+	"hor":"Martes a Sábado de 10:00 a.m. a 6:00 p.m. Domingo de 9:00 a.m. a 4:00 p.m.",
+	"des":"Exhibe en sus instalaciones grandes e importantes colecciones de artesanía que datan de los siglos XVIII y XIX, creadas por destacados artesanos de las localidades cercanas al municipio."
+},
+
+{
+	"name":"Museo Tonallán",
+	"url":"http://vacaciones.jalisco.gob.mx/sites/default/files/museo_tonallan_copia.jpg",
+	"dir":"Calle Ramón Corona #73, Zona Centro, Tonalá, Jalisco",
+	"hor":"Lunes a Viernes de 10:00 a.m. a 3:00 p.m.",
+	"des":"El Museo cuenta con salas de exposiciones de máscaras representativas, las cuales han sido ganadoras de los tres primeros lugares en las fiestas del Santo Patrono Santiago Apóstol. Dentro de la sala arqueológica, se exhiben piezas que fueron encontradas a escasos 300 metros de este museo en una casa particular."
+},
+
+{
+	"name":"Museo Trompo Mágico",
+	"url":"http://guadalajaraguadalajara.com/images/museos/trompo_magico.jpg",
+	"dir":"Av. Central #750, Fracc. Residencial Poniente, Zapopan, Jalisco. C.P. 45136",
+	"hor":"Martes a Viernes de 9:00 a.m. a 6:00 p.m. Sábado y Domingo de 11:00 a.m. a 7:00 p.m. así como días festivos y vacaciones.",
+	"des":"Este espacio del Gobierno del Estado de Jalisco tiene cuatro características principales: en sus áreas encontrarás exhibiciones contemplativas, interactivas, con tecnología avanzada y, el requisito más importante, cada una tiene un fundamento pedagógico. A través de talleres de arte y ciencia, exposiciones interactivas, cursos, conferencias y eventos culturales, el Trompo Mágico pretende ser un espacio dinámico y flexible, cercano a las necesidades de la región; un lugar donde puedas involucrarte en las preocupaciones sociales, ecológicas e históricas."
+}
+]

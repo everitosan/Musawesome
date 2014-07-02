@@ -1,0 +1,60 @@
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+a{background:transparent}
+a:active,a:hover{outline:0}
+abbr[title]{border-bottom:1px dotted}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+h1{font-size:2em;margin:.67em 0}
+mark{background:#ff0;color:#000}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:1em 40px}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+pre{overflow:auto}
+code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}
+button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}
+button{overflow:visible}
+button,select{text-transform:none}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+input{line-height:normal}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
+input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+textarea{overflow:auto}
+optgroup{font-weight:bold}
+table{border-collapse:collapse;border-spacing:0}
+td,th{padding:0}
+body{text-align:center;font-size:1.2em;}
+body header{background:url("../img/back.png") no-repeat;background-position:center;-webkit-background-size:120% auto;-moz-background-size:120% auto;background-size:120% auto;border-bottom:2px solid #b1bcc4;height:65px;margin:0;padding:0;position:fixed;top:0;width:100%;}
+body header img{height:100%}
+body #buscar{margin-top:65px;padding:1em;}
+body #buscar input{background:url("../img/bin.png") no-repeat;background-position:center;-webkit-background-size:100% auto;-moz-background-size:100% auto;background-size:100% auto;border:none;color:#605b5d;font-family:'Century Gothic';font-size:1.2em;text-align:center;width:100%}
+#lista{text-align:left;margin-bottom:2em;}
+#lista .item{-webkit-transition:all linear 0.5s;-moz-transition:all linear 0.5s;-ms-transition:all linear 0.5s;-o-transition:all linear 0.5s;transition:all linear 0.5s;background:#e8ebee;-webkit-border-radius:50px 0 0 50px;border-radius:50px 0 0 50px;font-family:'Century Gothic';width:95%;margin:0 auto;margin-top:1em;height:110px;font-size:16px;overflow:hidden;}
+#lista .item figure{width:100px;height:100px;overflow:hidden;-webkit-border-radius:50%;border-radius:50%;margin:0;display:inline-block;vertical-align:top;margin:5px;float:left;}
+#lista .item figure img{height:100%;width:auto}
+#lista .item p{display:inline-block;vertical-align:top;text-align:left;width:60%;margin:.2em 0 0 0}
+#lista .item .info{width:80%;-webkit-border-radius:0 0 0 50px;border-radius:0 0 0 50px;margin-left:10%}
+#lista .item span{color:#605b5d;font-size:1.7em;font-weight:200;left:2px;position:absolute;top:-7px;color:#ec8515}
+#lista .fulllinfo{height:100%;overflow-y:scroll}
+#menu{background:rgba(255,255,255,0.85);-webkit-transition:all linear 0.1s;-moz-transition:all linear 0.1s;-ms-transition:all linear 0.1s;-o-transition:all linear 0.1s;transition:all linear 0.1s;width:100%;height:100%;position:fixed;top:70px}
+#map{-webkit-transition:all linear 0.5s;-moz-transition:all linear 0.5s;-ms-transition:all linear 0.5s;-o-transition:all linear 0.5s;transition:all linear 0.5s;width:100%;height:100%;background:rgba(0,0,0,0.7);position:fixed;top:70px;}
+#map #m{height:100%;width:100%}
+.hiddenmap{left:100%}
+.visiblemap{left:0}
+.hiddenmenu{right:100%}
+.visiblemenu{right:0}

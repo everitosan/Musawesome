@@ -1,0 +1,113 @@
+@import 'normalize'
+$bg="../img/back.png"
+$bi="../img/bin.png"
+$grisclaro =#605b5d
+
+@import 'nib'
+@import 'nib/vendor'
+vendor-prefixes= webkit moz ms o official
+
+body
+	text-align center
+	font-size 1.2em
+	header
+		background url($bg) no-repeat
+		background-position center
+		background-size 120% auto
+		border-bottom 2px solid #b1bcc4
+		height 65px
+		margin 0 
+		padding 0
+		position fixed
+		top 0
+		width 100%
+		img
+			height 100%
+	#buscar
+		margin-top 65px
+		padding 1em
+		input 
+			background url($bi) no-repeat
+			background-position center
+			background-size 100% auto
+			border none
+			color $grisclaro
+			font-family 'Century Gothic'
+			font-size 1.2em
+			text-align center
+			width 100%
+#lista
+	text-align left
+	margin-bottom 2em
+	.item
+		transition all linear .5s
+		background #e8ebee
+		border-radius 50px 0 0 50px
+		font-family 'Century Gothic'
+		width 95%
+		margin 0 auto
+		margin-top 1em 
+		height 110px
+		font-size 16px
+		overflow hidden
+		figure
+			width 100px
+			height 100px
+			overflow hidden
+			border-radius 50%
+			margin 0
+			display inline-block
+			vertical-align top
+			margin 5px
+			float left
+			img
+				height 100%
+				width auto
+		p
+			display inline-block
+			vertical-align top
+			text-align left
+			width 60%
+			margin .2em 0 0 0
+		.info
+			width 80%
+			border-radius 0 0 0 50px
+			margin-left 10%
+		span
+			color $grisclaro
+			font-size 1.7em
+			font-weight 200
+			left 2px
+			position absolute
+			top -7px
+			color rgb(236, 133, 21)
+	.fulllinfo
+		height 100%
+		overflow-y scroll
+#menu
+	background rgba(255,255,255,.85)
+	transition all linear .1s
+	width 100%
+	height 100%
+	position fixed
+	top 70px
+#map
+	transition all linear .5s
+	width 100%
+	height 100%
+	background rgba(0,0,0,.7)
+	position fixed
+	top 70px
+	#m
+		height 100%
+		width 100%
+.hiddenmap
+	left 100%
+.visiblemap
+	left 0
+.hiddenmenu
+	right 100%
+.visiblemenu
+	right 0
+
+
